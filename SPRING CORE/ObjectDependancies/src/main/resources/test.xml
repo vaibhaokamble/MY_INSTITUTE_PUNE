@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+			"https://www.springframework.org/dtd/spring-beans-2.0.dtd">
+
+<beans>
+	<bean id="p" class="vaibhao.Player">
+		<property name="name" value="vaibhao" />
+		<property name="id" value="001" />
+		<property name="run" value="1000" />
+	</bean>
+
+	<bean id="t" class="vaibhao.Team">
+		<property name="player" ref="p" />
+	</bean>
+</beans>

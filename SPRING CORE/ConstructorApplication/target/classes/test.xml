@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+			"https://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+	<bean id="a" class="vaibhao.Constructor">
+		<constructor-arg value="Vaibhav"
+			type="java.lang.String" index="0" />
+		<constructor-arg value="50000" type="int" index="1" />
+		<constructor-arg value="Wardha" type="java.lang.String"
+			index="2" />
+	</bean>
+</beans>

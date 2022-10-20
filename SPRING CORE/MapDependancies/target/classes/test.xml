@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+			"https://www.springframework.org/dtd/spring-beans-2.0.dtd">
+<beans>
+	<bean id="comp" class="vaibhao.Company">
+		<property name="studentList">
+			<map>
+				<entry key="1" value="Vaibhao" />
+				<entry key="2" value="Ashok" />
+				<entry key="3" value="Archu" />
+				<entry key="4" value="Family" />
+			</map>
+		</property>
+	</bean>
+</beans>

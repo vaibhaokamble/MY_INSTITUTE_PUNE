@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<table bordar='0' align='center'>
+		<tr>
+			<td>Name</td>
+			<td><input type='text' name='n' value='' /></td>
+		</tr>
+		<tr>
+			<td>Email</td>
+			<td><input type='text' name='e' value='' /></td>
+		</tr>
+		<tr>
+			<td>Contact</td>
+			<td><input type='text' name='c' value='' /></td>
+		</tr>
+		<tr>
+			<td colspan='2' align='center'><input type='submit' name='s'
+				value='register' /></td>
+	</table>
+</body>
+</html>

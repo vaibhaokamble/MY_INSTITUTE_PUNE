@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+	<form name='frm' action='validate' method='POST'>
+		<input type='text' name='name' value='' class="control" /><br>
+		<br> <input type="password" name="pass" value='' class='control' /><br>
+		<br> <input type='submit' name='s' value='Login' class='control' />
+	</form>
+</body>
+</html>

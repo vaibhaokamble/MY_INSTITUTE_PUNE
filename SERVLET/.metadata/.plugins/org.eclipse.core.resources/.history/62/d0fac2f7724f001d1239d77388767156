@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<label>Username</label> &nbsp;&nbsp;&nbsp;
+	<input type='text' name='name' value='' placeholder='Enter Name' />
+	<br>
+	<br>
+	<label>Password</label> &nbsp;&nbsp;&nbsp;
+	<input type='text' name='name' value='' placeholder='Enter Password' />
+	<br>
+	<br>
+	<a href='register.html'>Register</a>&nbsp;&nbsp;
+	<input type='submit' name='name' value='Login' />
+	<br>
+	<br>
+</body>
+</html>

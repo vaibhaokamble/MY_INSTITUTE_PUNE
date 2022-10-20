@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+.control {
+	width: 400px;
+	height: 40px;
+}
+</style>
+</head>
+<body>
+	<input type='text' name='name' value='' class='control' />
+	<br>
+	<br>
+	<input type='password' name='pass' value='' class='control' />
+	<br>
+	<br>
+	<input type='submit' name='s' value='Login Here' class='control' />
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="css/login.css" />
+</head>
+<body>
+	<div class="container">
+		<label id="lbluser">USERNAME</label> &nbsp;&nbsp;&nbsp;<input
+			type='text' name='name' value='' id="username" class="controlSize"
+			placeholder='Enter Username' /><br>
+		<br> <label id="lblpass">PASSWORD</label> &nbsp;&nbsp;&nbsp;<input
+			type='text' name='name' value='' id="password" class="controlSize"
+			placeholder='Enter Passwod' /><br>
+		<br> <a href='register.html' id="lblregister">REGISTER</a>&nbsp;&nbsp;
+		<input type='submit' name='name' value='Login' id="btn"
+			class="controlSize" /><br>
+		<br>
+	</div>
+</body>
+</html>

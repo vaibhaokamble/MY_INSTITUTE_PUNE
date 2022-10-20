@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form name='frm' action='AddServ' method='POST'>
+	<input type='text' name='first' value=''
+		style='width: 400px; height: 40px; background-color:orange; border-radius:15px;' />
+	<br>
+	<br>
+	<input type='text' name='second' value=''
+		style='width: 400px; height: 40px; background-color:orange; border-radius:15px;' />
+	<br>
+	<br>
+	<input type='submit' name='s' value='Calculate Addition'
+		style='width: 400px; height: 40px; background-color:red;border-radius:15px;' />
+
+</body>
+</html>

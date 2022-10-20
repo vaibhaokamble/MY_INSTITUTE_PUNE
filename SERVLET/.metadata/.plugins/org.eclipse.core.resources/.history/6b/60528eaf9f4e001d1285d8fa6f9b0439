@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+<div class="container">
+<ul>
+	<li> <input type='text' name='name' value='' class='control' placeholder='Enter Name'/></li>
+	<li> <input type='text' name='email' value=''class='control' placeholder='Enter Email'/></li>
+	<li> <input type='text' name='contact' value=''class='control' placeholder='Enter Contact'/></li>
+	<li> <select name='qual' class='control'>
+		<option> SELECT QUALIFICATION </option>
+		<option> MCA</option>
+		<option>B.SC</option>
+		<option>12TH</option>
+		<option>10TH</option>
+	</select></li>
+	<li><input type='text' name='username' value=''class='control' placeholder='Enter Username'/></li>
+	<li><input type='text' name='password' value=''class='control' placeholder='Enter Password'></li>
+	<li><input type='submit' name='s' value='REGISTER HERE'class='control'/></li>
+	
+</ul>
+</div>
+</body>
+</html>

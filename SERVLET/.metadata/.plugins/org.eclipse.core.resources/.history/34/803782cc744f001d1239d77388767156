@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="css/register.css" /></head>
+<body>
+	<div>
+		<h1>Register Here</h1>
+		<input type='text' name='name' value='' placeholder='Enter Name'
+			class="control" /><br> <br> <input type='text'
+			name='email' value='' placeholder='Enter Email' class="control" /><br>
+		<br> <input type='text' name='contact' value=''
+			placeholder='Enter Contact' class="control" /><br> <br> <input
+			type='text' name='username' value='' placeholder='Enter Username'
+			class="control" /><br> <br> <input type='text'
+			name='password' value='' placeholder='Enter Password' class="control" /><br>
+		<br> <input type='submit' name='s' value='Register'
+			class="control" /><br> <br>
+	</div>
+</body>
+</html>

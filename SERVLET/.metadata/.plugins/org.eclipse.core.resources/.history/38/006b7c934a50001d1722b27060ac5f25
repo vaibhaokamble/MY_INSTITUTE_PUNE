@@ -1,0 +1,17 @@
+package vaibhao;
+
+import java.sql.*;
+
+public class DAO {
+
+	private Connection conn;
+	private PreparedStatement stmt;
+	private ResultSet rs;
+	
+	public void DEO() throws Exception{
+		com.mysql.cj.jdbc.Driver d= new com.mysql.cj.jdbc.Driver();
+		DriverManager.registerDriver(d);
+		conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/eclipse","vaibhaovk","vaibhao");
+		
+	}
+}

@@ -1,0 +1,10 @@
+127.0.0.1 - - [18/Oct/2022:14:23:10 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [18/Oct/2022:14:23:11 +0530] "GET /AdditionApplication/FirstServe HTTP/1.1" 500 1269
+127.0.0.1 - - [18/Oct/2022:14:23:12 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [18/Oct/2022:14:25:05 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [18/Oct/2022:14:25:06 +0530] "GET /AdditionApplication/FirstServe HTTP/1.1" 200 17
+127.0.0.1 - - [18/Oct/2022:14:26:14 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [18/Oct/2022:14:26:15 +0530] "GET /AdditionApplication/AddServ HTTP/1.1" 500 1263
+127.0.0.1 - - [18/Oct/2022:14:32:41 +0530] "GET /AdditionApplication/Addition.html HTTP/1.1" 200 550
+127.0.0.1 - - [18/Oct/2022:14:32:52 +0530] "POST /AdditionApplication/AddServ HTTP/1.1" 200 27
+127.0.0.1 - - [18/Oct/2022:14:38:16 +0530] "POST /AdditionApplication/AddServ HTTP/1.1" 200 27

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<div>
+<input type='text' name='first' value=''/>
+<input type='text' name='second' value=''/>
+<input type='submit' name='s' value='Addition'/>
+</div>
+</body>
+</html>

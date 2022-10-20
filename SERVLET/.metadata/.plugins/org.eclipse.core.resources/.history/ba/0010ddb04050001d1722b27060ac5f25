@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+body {
+	background-color: purple;
+}
+
+.container {
+	width: 800px;
+	height: 400px;
+	position: relative;
+	left: 200px;
+	top: 70px;
+}
+
+.controlSize {
+	width: 400px;
+	height: 40px;
+	border-radius: 5px;
+}
+
+#username {
+	position: absolute;
+	left: 300px;
+	top: 30px;
+}
+
+#password {
+	position: absolute;
+	left: 300px;
+	top: 100px;
+}
+
+#btn {
+	position: absolute;
+	left: 300px;
+	top: 170px;
+}
+
+#lbluser {
+	position: absolute;
+	left: 200px;
+	width: 100px;
+	height: 40px;
+	color: white;
+	top: 40px;
+}
+
+#lblpass {
+	position: absolute;
+	left: 200px;
+	width: 100px;
+	height: 40px;
+	color: white;
+	top: 110px;
+}
+
+#lblregister {
+	position: absolute;
+	left: 200px;
+	width: 100px;
+	height: 40px;
+	color: white;
+	top: 180px;
+}

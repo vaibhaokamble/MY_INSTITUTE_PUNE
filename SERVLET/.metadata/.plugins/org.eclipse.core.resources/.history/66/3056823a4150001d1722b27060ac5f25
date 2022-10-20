@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+	background-color: purple;
+}
+
+div {
+	width: 800px;
+	height: 500px;
+	position: relative;
+	left: 400px;
+}
+
+h1 {
+	color: bkack;
+}
+
+.control {
+	width: 400px;
+	height: 40px;
+	border-radius: 5px;
+}

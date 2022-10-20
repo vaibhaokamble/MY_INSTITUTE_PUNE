@@ -1,0 +1,8 @@
+127.0.0.1 - - [20/Oct/2022:10:49:43 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:10:49:44 +0530] "GET /JSPApplication/addition.jsp HTTP/1.1" 200 507
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:10:49:52 +0530] "POST /JSPApplication/addition.jsp HTTP/1.1" 200 534
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:10:50:25 +0530] "GET /JSPApplication/table.jsp HTTP/1.1" 200 420
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:10:50:32 +0530] "POST /JSPApplication/table.jsp HTTP/1.1" 200 1291
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:10:50:48 +0530] "GET /JSPApplication/division.jsp HTTP/1.1" 200 465
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:10:51:01 +0530] "POST /JSPApplication/division.jsp HTTP/1.1" 200 489
+0:0:0:0:0:0:0:1 - - [20/Oct/2022:10:51:07 +0530] "POST /JSPApplication/division.jsp HTTP/1.1" 200 190
